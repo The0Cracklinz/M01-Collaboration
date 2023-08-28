@@ -1,0 +1,6 @@
+print ("PYTHON PROGRAM!!!!!!!!!!!!!!")
+
+a=110
+b=6
+c=a+b
+print ("sum is equal to ",c)
